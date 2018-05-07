@@ -6,16 +6,16 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: William Sealy Gosset
+author: Selcen Cakir
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+
+address: "University of Virginia · Department of Economics · PO Box 400182  · Charlottesville, VA 22904-4182"
 fontawesome: yes
-email: guinness@consumer-care.net
+email: sc3ch@virginia.edu
 # github: svmiller
-phone: "+353 1 408 4800"
-web: guinness.com
-updated: no
+phone: "+1 (434) 466 6303"
+web: selcencakir.github.io
+updated: "May 2018"
 
 keywords: R Markdown, academic CV, template
 
@@ -26,17 +26,18 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Employment
+# Academic Positions
 
-*Arthur Guinness & Son*
+*Bogazici University, Department of Economics*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+Assistant Professor \hfill Sep 2018 (expected)-
 
-Researcher (Dublin) \hfill 1899-1935
+
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Ph.D. University of Virginia*, Economics \hfill May 2018 (expected)
+*B.A. Chemistry \hfill 1899
 
 
 # Publications
