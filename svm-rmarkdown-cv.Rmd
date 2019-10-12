@@ -9,13 +9,13 @@ title: "CV"
 author: Selcen Cakir
 
 
-address: "University of Virginia · Department of Economics · PO Box 400182  · Charlottesville, VA 22904-4182"
+address: "Bogazici University · Department of Economics · Natuk Birkan Building 214  · Istanbul 34342, Turkey"
 fontawesome: yes
-email: sc3ch@virginia.edu
+email: selcencakir1@gmail.com
 # github: svmiller
-phone: "+1 (434) 466 6303"
+phone: "+90 (212) 359 7651"
 web: selcencakir.github.io
-updated: "May 2018"
+updated: "October 2019"
 
 keywords: R Markdown, academic CV, template
 
@@ -36,48 +36,28 @@ Assistant Professor \hfill Sep 2018 (expected)-
 
 # Education
 
-*Ph.D. University of Virginia*, Economics \hfill May 2018 (expected)
+*Ph.D. University of Virginia*, Economics \hfill May 2018 
 *M.A. University of Virginia*, Economics \hfill 2012
-*B.A. Chemistry \hfill 1899
+*M.A. Koc University*, Economics \hfill 2011
+*B.A. TOBB ETU*, Economics \hfill 2008
 
 
-# Publications
 
-## Books
+# Research Papers
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+## Working Papers
 
-## Journal Articles
+Choosing Your Pond: A Structural Model of Political Power Sharing.
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+## Ongoing Projects (_titles are suggestive_)
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+Bounding Bias Caused by Left-Censoring in Survival Models (with [Steven Stern](https://sites.google.com/site/stevensterneconomics/home))
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+Conflict over Natural Resources (with Peter Debaere)
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+Superstar Firms and Job Creation
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
-
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
-
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
-
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
 
 ## Other Publications
 
